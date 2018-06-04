@@ -1,3 +1,20 @@
+.cover-heading{
+      padding-bottom:  5%;
+}
+.lead{
+      padding-bottom:  5%;
+}
+.cover-heading a{
+      color: lightslategrey;
+}
+.card-body{
+   background-color:  lightgrey;
+}
+.container{
+   width: 600px;
+       height: 500px;
+    overflow: scroll;
+}
 /* =============================================================================
    HTML5 CSS Reset Minified - Eric Meyer
    ========================================================================== */
